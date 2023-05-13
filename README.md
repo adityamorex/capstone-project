@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">Face Recognition Attendance System</h1>
-  <h1 align="center"><img src="client/public/nulogo.png" alt="NU Logo" width="80" height="80"><br>NIIT University - Capstone Project</h1>
+  <h1 align="center"><img src="client/public/nulogo.png" alt="NU Logo" width="120" height="120"><br>NIIT University - Capstone Project</h1>
 </div>
 
 </p>
