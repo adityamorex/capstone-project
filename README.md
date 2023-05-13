@@ -3,6 +3,10 @@
 <h1 align="center"><img align="center" src="client/public/nulogo.png" alt="Logo" width="40" height="40">NIIT University - Capstone Project</h1>
 
 
+</p>
+</div>
+
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
