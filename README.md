@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Face Recognition Attendance System</h1>
-<h1 align="center"><img align="center" src="./Images/microsoft.png" alt="Logo" width="40" height="40">Microsoft Engage - 2022</h1>
+<h1 align="center"><img align="center" src="client/public/nulogo.png" alt="Logo" width="40" height="40">Microsoft Engage - 2022</h1>
 
 
      ·
