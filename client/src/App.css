@@ -528,7 +528,12 @@ body {
 .main-Class {
   padding-top: 100px;
   padding-bottom: 70px;
-  background: radial-gradient(#0905f5, #095659);
+  /*background: radial-gradient(#f5051d, #095659);*/
+  background-image: url("D:\SemVI\capstone-attendence\Face-Recognition-Attendance-System\Images\campus1.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
   min-height: 100vh;
 }
 
