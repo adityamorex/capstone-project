@@ -180,19 +180,6 @@ Laptops, Desktops and Tablet PCs
    
    <img src="Images/chat.png" alt="home page" width="800"/>
 
-## Need Help?
-
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/soumya-agarwal20/)
-
----------
-
-```javascript
-if (youEnjoyed) {
-    starThisRepository();
-}
-```
-
------------
 
 <!--MARKDOWN LINKS-->
 [front-end-shield]: https://img.shields.io/badge/Front--end-React%20JS-blueviolet
