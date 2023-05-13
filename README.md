@@ -1,12 +1,7 @@
 <div align="center">
 <h1 align="center">Face Recognition Attendance System</h1>
-<h1 align="center"><img align="center" src="client/public/nulogo.png" alt="Logo" width="40" height="40">Microsoft Engage - 2022</h1>
+<h1 align="center"><img align="center" src="client/public/nulogo.png" alt="Logo" width="40" height="40">NIIT University - Capstone Project</h1>
 
-
-     ·
- <a target="_blank" href="https://youtu.be/0bLLL2Lfb6U">Video Demo</a>
-</p>
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
