@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 align="center">Face Recognition Attendance System</h1>
+  <h1 align="center">NU Face Recognition Attendance System</h1>
   <h1 align="center"><img src="client/public/nulogo.png" alt="NU Logo" width="200" height="200"><br>NIIT University - Capstone Project</h1>
 </div>
 
