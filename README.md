@@ -8,46 +8,6 @@
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#salient-features">Salient Features</a></li>
-        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#agile-methodology">Agile Methodology</a>
-      <ul>
-        <li><a href="#what-is-agile">What is Agile</a></li>
-        <li><a href="#how-i-incorporated-agile-methodology-during-the-development-cycle">How I Incorporated Agile Methodology During The Development Cycle</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#points-to-remember-while-testing-the-app">Points to remember while testing the app</a></li>
-        <li><a href="#before-installation">Before Installation</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
-        <li><a href="#home-page-and-about-section">Home page and About Section</a></li>
-        <li><a href="#student-and-faculty-registration">Registration</a></li>
-        <li><a href="#student-and-faculty-login">Login</a></li>
-        <li><a href="#student-and-faculty-profile-page">Profile Page</a></li>
-        <li><a href="#generate-code-and-send-email">Generate Code and Send Email</a></li>
-        <li><a href="#authenticate-code-and-mark-attendance">Marking Attendance</a></li>
-        <li><a href="#view-daily-and-datewise-attendance-sheet">Attendance Sheet</a></li>
-        <li><a href="#chatbox-feature">ChatBox</a></li>
-      </ul>
-    <li><a href="#need-help">Need Help?</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -65,8 +25,6 @@
 * ChatBox - Feature through which the student and faculty can directly chat with each other implemented using Socket.io
 * Dynamic Profile page of Student and faculty showing all their details.
 
-### Compatible Platforms
-Laptops, Desktops and Tablet PCs
 
 ### Built With
 * ![Front-end][front-end-shield]
