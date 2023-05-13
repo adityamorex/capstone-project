@@ -79,7 +79,7 @@ const StudentLogin = () => {
                   fontSize: "35px",
                   marginBottom: "3rem",
                   fontWeight: "bolder",
-                  color: "rgb(35 58 159)",
+                  color: "rgb(130 22 25)",
                 }}
               >
                 STUDENT LOGIN
