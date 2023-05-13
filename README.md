@@ -1,13 +1,12 @@
-<div align="center">
-<h1 align="center">Face Recognition Attendance System</h1>
-<h1 align="center"><img align="center" src="./Images/microsoft.png" alt="Logo" width="40" height="40">Microsoft Engage - 2022</h1>
 
-<p align="center">
-<a target="_blank" href="https://demo-abd.herokuapp.com/">Link to App - Aditya</a>
-     ·
- <a target="_blank" href="https://youtu.be/0bLLL2Lfb6U">Video Demo</a>
+<div align="center">
+  <h1 align="center">Face Recognition Attendance System</h1>
+  <h1 align="center"><img src="client/public/nulogo.png" alt="NU Logo" width="200" height="200"><br>NIIT University - Capstone Project</h1>
+</div>
+
 </p>
 </div>
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -53,7 +52,8 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Face Recognition Attendance System built during Microsoft Engage 2022. 
+* This project is made as a part of the Capstone Project for Semester VI of 2020 Batch.
+* The project uses the facial recognition technology to mark the attendence of students.
 * The project aims to eliminate the current conventional attendance system which is done manually. 
 * It detects and matches student face to mark attendance automatically.
 * The faculty generates the unique authentication code which is validated on student side to mark attendance.
@@ -98,9 +98,6 @@ Laptops, Desktops and Tablet PCs
    
    <img src="Images/captureImage.png" alt="home page" width="800"/>
    
-   - Student can also Retake image if he wants.
-   
-   <img src="Images/Retake Image.png" alt="home page" width="800"/>
    
 ## Student and Faculty Login
 
@@ -180,19 +177,6 @@ Laptops, Desktops and Tablet PCs
    
    <img src="Images/chat.png" alt="home page" width="800"/>
 
-## Need Help?
-
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/soumya-agarwal20/)
-
----------
-
-```javascript
-if (youEnjoyed) {
-    starThisRepository();
-}
-```
-
------------
 
 <!--MARKDOWN LINKS-->
 [front-end-shield]: https://img.shields.io/badge/Front--end-React%20JS-blueviolet
