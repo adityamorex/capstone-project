@@ -11,7 +11,7 @@ html {
 /* navbar CSS */
 
 .navbar {
-  background-color: rgb(15, 15, 15);
+  background-color: rgb(130, 22, 25);
   height: 70px;
   display: flex;
   justify-content: center;
@@ -156,7 +156,7 @@ html {
 /* home component */
 
 .home {
-  background-image: url("../public/background.gif");
+  background-image: url("../public/image.jpg");
   background-position: center;
   background-size: contain;
   margin: 0;
