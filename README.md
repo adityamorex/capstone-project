@@ -52,7 +52,8 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Face Recognition Attendance System built during Microsoft Engage 2022. 
+* This project is made as a part of the Capstone Project for Semester VI of 2020 Batch.
+* The project uses the facial recognition technology to mark the attendence of students.
 * The project aims to eliminate the current conventional attendance system which is done manually. 
 * It detects and matches student face to mark attendance automatically.
 * The faculty generates the unique authentication code which is validated on student side to mark attendance.
