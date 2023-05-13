@@ -8,39 +8,6 @@
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#salient-features">Salient Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <ul>
-      </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-      </ul>
-    </li>
-    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
-        <li><a href="#home-page-and-about-section">Home page and About Section</a></li>
-        <li><a href="#student-and-faculty-registration">Registration</a></li>
-        <li><a href="#student-and-faculty-login">Login</a></li>
-        <li><a href="#student-and-faculty-profile-page">Profile Page</a></li>
-        <li><a href="#generate-code-and-send-email">Generate Code and Send Email</a></li>
-        <li><a href="#authenticate-code-and-mark-attendance">Marking Attendance</a></li>
-        <li><a href="#view-daily-and-datewise-attendance-sheet">Attendance Sheet</a></li>
-        <li><a href="#chatbox-feature">ChatBox</a></li>
-      </ul>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
