@@ -92,7 +92,7 @@ html {
 
 .nav-item:hover:after {
   width: 100%;
-  background: #06e311;
+  background: #ffffff;
 }
 
 .nav-item .active {
