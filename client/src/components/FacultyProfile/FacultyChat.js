@@ -8,7 +8,7 @@ import { io } from "socket.io-client";
 const user = "faculty";
 
 const FacultyChat = () => {
-  const host = "http://localhost:3000";
+  const host = "http://localhost:5000";
   
   const socket = useRef();
   const [contacts, setContacts] = useState([]);
