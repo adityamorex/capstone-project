@@ -16,17 +16,17 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#salient-features">Salient Features</a></li>
-        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    
+    <li>
+      <ul>
+      </li>
+      </ul>
+    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#points-to-remember-while-testing-the-app">Points to remember while testing the app</a></li>
-        <li><a href="#before-installation">Before Installation</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
@@ -39,7 +39,6 @@
         <li><a href="#view-daily-and-datewise-attendance-sheet">Attendance Sheet</a></li>
         <li><a href="#chatbox-feature">ChatBox</a></li>
       </ul>
-    <li><a href="#need-help">Need Help?</a></li>
   </ol>
 </details>
 
@@ -59,8 +58,6 @@
 * ChatBox - Feature through which the student and faculty can directly chat with each other implemented using Socket.io
 * Dynamic Profile page of Student and faculty showing all their details.
 
-### Compatible Platforms
-Laptops, Desktops and Tablet PCs
 
 ### Built With
 * ![Front-end][front-end-shield]
