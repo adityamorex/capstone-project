@@ -98,9 +98,6 @@ Laptops, Desktops and Tablet PCs
    
    <img src="Images/captureImage.png" alt="home page" width="800"/>
    
-   - Student can also Retake image if he wants.
-   
-   <img src="Images/Retake Image.png" alt="home page" width="800"/>
    
 ## Student and Faculty Login
 
