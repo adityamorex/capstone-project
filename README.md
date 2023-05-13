@@ -20,13 +20,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#agile-methodology">Agile Methodology</a>
-      <ul>
-        <li><a href="#what-is-agile">What is Agile</a></li>
-        <li><a href="#how-i-incorporated-agile-methodology-during-the-development-cycle">How I Incorporated Agile Methodology During The Development Cycle</a></li>
-      </ul>
-    </li>
+    
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
